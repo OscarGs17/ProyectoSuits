@@ -10,10 +10,10 @@
           <a class="nav-link active" aria-current="page" href="login">Iniciar sesion</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="registro">registro</a>
+          <a class="nav-link" href="inventario">registro</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="inventario">inventario</a>
+          <a class="nav-link" href="registro">inventario</a>
         </li>
        
       </ul>
