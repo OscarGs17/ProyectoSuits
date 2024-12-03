@@ -9,9 +9,9 @@
         <div class="col-md-6 col-lg-4">
             <div class="card shadow-lg border-0 rounded-3">
                 <div class="card-body p-4">
-                    <h3 class="text-center mb-4 text-primary">Login</h3>
+                    <h3 class="text-center mb-4 text-primary">Inicio de sesion</h3>
                     <div class="text-center mb-4">
-                        <img src="<?= IMG . 'imagen3.jpg' ?>" class="rounded-circle" width="60%" alt="Login">
+                    <img src="./public/img/imagen3.JPG" class="rounded-circle" width="60%" alt="Login">
                     </div>
                     <div class="form-floating mb-3">
                         <input class="form-control" id="usuario" name="usuario" type="text" placeholder="Email" required>
@@ -36,3 +36,9 @@
     </div>
 </form>
 <script src="./public/js/login.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
+
+
+
